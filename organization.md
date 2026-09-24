@@ -7,7 +7,7 @@ title: Organization
 
 ## UDW Workshop chairs
 
-* Kaja Dobrovoljc Zor, University of Ljubljana & Jozef Stefan Institute
+* Kaja Dobrovoljc Zor, University of Ljubljana
 * Natalia Levshina, Radboud University
 
 ## SynaxFest 2027 Local organizing committee
