@@ -14,9 +14,8 @@ UDW 2027 will be part of SyntaxFest 2027, held in Prague from August 30 to Septe
 UD is an open, community-driven initiative that continues to grow, with more than 700 contributors producing over 350 treebanks in more than 190 languages. The framework captures both shared properties and language-
 specific characteristics among typologically diverse languages (e.g., morphologically rich, pro-drop, and clitic-doubling languages), and has proven highly valuable for research in parsing, model understanding and evaluation, and linguistic typology.
 
-## Invited speakers
+<-- ## Invited speakers -->
 
-To be announced.
 
 
 
