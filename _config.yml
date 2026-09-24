@@ -1,9 +1,9 @@
 # Site settings
-title: UDW26
-email: udw-organisers@googlegroups.com
+title: UDW27
+email: udw27@googlegroups.com
 description: > # this means to ignore newlines until "baseurl:"
-  Universal Dependencies Workshop 2026 (UDW'26)
-baseurl: "/udw26" # the subpath of your site, e.g. /blog/
+  Universal Dependencies Workshop 2027 (UDW 2027)
+baseurl: "/udw27" # the subpath of your site, e.g. /blog/
 url: "https://universaldependencies.org" # the base hostname & protocol for your site
 twitter_username: ud_workshop
 # github_username:  jekyll
